@@ -9,4 +9,4 @@ public class Objective8Lab1 {
 			System.out.println(i);
 		}
 	}
-}
+} 
